@@ -5,7 +5,7 @@ import { useMemo, useRef, useState } from 'react';
 const journeyCards = [
   {
     step: '01',
-    title: 'Pembuka cerita',
+    title: 'Cerita Awal',
     copy: 'Pembuka singkat yang menegaskan gaya fotografi: hangat, peka, dan berfokus pada momen.',
     label: 'Identitas',
     icon: Compass,
